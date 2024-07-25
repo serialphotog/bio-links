@@ -19,6 +19,8 @@ git clone https://github.com/serialphotog/bio-links.git
 
 Next, make your own edits to the site and deploy it. That's it!
 
+**Tip:** Don't forget to update the title and meta tags!
+
 **Note:** For those that are curios, I am hosting my instance of this project using Cloudflare Pages. I would personally recommend that you simply fork this project, clone it, make your edits, and then set up Cloudflare Pages to auto-deploy your site from your forked Git repo.
 
 ## 📝 License
